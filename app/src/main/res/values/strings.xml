@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ResponsiPPAB01</string>
+
+    <string name="title_home">Home</string>
+    <string name="homeText1">TextView</string>
+    <string name="homeText2">TextView</string>
+
+    <string name="title_dashboard">List</string>
+
+    <string name="title_profile">Profile</string>
+    <string name="profileText1">TextView</string>
+    <string name="profileText2">TextView</string>
+    <string name="profileText3">TextView</string>
+    <string name="profileText4">TextView</string>
+    <string name="profileText5">TextView</string>
+    <string name="profileText6">TextView</string>
+    <string name="profileText7">TextView</string>
+    <string name="buttonProfileText1">Share me!</string>
+
+
+</resources>
