@@ -114,6 +114,4 @@
         android:textColor="@color/white"
         android:layout_marginTop="40dp"
         android:text="@string/buttonProfileText1" />
-
-
 </LinearLayout>
